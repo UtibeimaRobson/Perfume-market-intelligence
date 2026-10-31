@@ -39,9 +39,8 @@ An end-to-end exploratory and diagnostic analysis of **1,998 perfume listings** 
 
 The analysis uses `Perfume_Market_Intelligence_Dataset.csv` (1,998 rows × 17 columns), located in the `data/` folder.
 
-- **Source:** _[add where the dataset came from, e.g. Kaggle link or description]_
-- **Licence / usage notes:** _[add if applicable]_
-
+- **Source:** Kaggle, "Global Perfume E-Commerce Analytics Dataset" by Muhammad Zohair Baloch: https://www.kaggle.com/datasets/zohairbaloch/global-perfume-e-commerce-analytics-dataset
+- **Licence / usage notes:** "Other (specified in description)" on Kaggle. The dataset is not included in this repository; download it from the link above and save it as `data/Perfume_Market_Intelligence_Dataset.csv` before running the notebook.
 Key columns include `Brand`, `Product`, `Gender`, `Product_Type`, `Price`, `Sold`, `Available`, `Revenue`, `Price_Category`, `Market_Segment`, `Sales_Performance`, `Brand_Popularity`, `Inventory_Status`, `Stock_Turnover` and `Country`. A full column guide is inside the notebook.
 
 ## Limitations
@@ -66,9 +65,7 @@ Run the notebook from the repository root so the dataset path resolves correctly
 ```
 ├── README.md
 ├── requirements.txt
-├── Perfume_Market_Intelligence_Analysis_Portfolio.ipynb
-└── data/
-    └── Perfume_Market_Intelligence_Dataset.csv
+└── Perfume_Market_Intelligence_Analysis_Portfolio.ipynb
 ```
 
 ## Tools
