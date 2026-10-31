@@ -74,6 +74,6 @@ Python · pandas · matplotlib · seaborn · Jupyter
 
 ## Author
 
-**Utibeima** — freelance data analyst (Excel, data cleaning, dashboards and reporting)
+**Utibeima Robson** — freelance data analyst (Excel,SQL, Power BI, Python, data cleaning, dashboards and reporting)
 
-_[Add your LinkedIn / Fiverr / email link here]_
+utibeimarobson18@gmail.com
