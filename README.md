@@ -51,11 +51,32 @@ Key columns include `Brand`, `Product`, `Gender`, `Product_Type`, `Price`, `Sold
 
 ## How to Run
 
+**1. Get the code**
+
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone https://github.com/UtibeimaRobson/perfume-market-intelligence.git
+cd perfume-market-intelligence
+```
+
+No git? Click the green **Code** button on this page, choose **Download ZIP**, and unzip it.
+
+**2. Get the dataset**
+
+The dataset is not included in this repository. Download it from [Kaggle](https://www.kaggle.com/datasets/zohairbaloch/global-perfume-e-commerce-analytics-dataset), create a folder called `data` in the project folder, and save the file there as `Perfume_Market_Intelligence_Dataset.csv`.
+
+**3. Install the libraries** (Python 3.10 or newer)
+
+```bash
 pip install -r requirements.txt
+```
+
+**4. Open the notebook**
+
+```bash
 jupyter notebook Perfume_Market_Intelligence_Analysis_Portfolio.ipynb
+```
+
+Run the notebook from the project folder so the data path resolves, then use **Kernel → Restart & Run All** to reproduce every result.
 ```
 
 Run the notebook from the repository root so the dataset path resolves correctly.
